@@ -2,36 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efc30a69-5394-4eb3-a211-26dc535b08d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/nav.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/materialUIStyleCustom.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/with-redux-store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/next-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/_document.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/corsi.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/image/landing.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/theme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux/actions/auth.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux/reducers/authReducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux/reducers/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux/store/configureStore.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/landing.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/landing.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/landing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/main.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../landing.psd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
@@ -87,12 +61,12 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="D:\PortfolioSlow\dmi_cloud\DmiStorageClient\react\dmi_storage_client\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
@@ -160,6 +134,8 @@
       <workItem from="1577662750451" duration="305000" />
       <workItem from="1577663406194" duration="17667000" />
       <workItem from="1578254783407" duration="1288000" />
+      <workItem from="1578256727529" duration="715000" />
+      <workItem from="1578257848741" duration="299000" />
     </task>
     <servers />
   </component>
@@ -168,20 +144,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
     <state x="739" y="230" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1577663496906">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="739" y="230" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1577663496906" />
-    <state x="393" y="45" width="749" height="851" key="CommitChangelistDialog2" timestamp="1578255858717">
+    <state x="290" y="75" width="1366" height="851" key="CommitChangelistDialog2" timestamp="1578258115314">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="393" y="45" width="749" height="851" key="CommitChangelistDialog2/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1578255858717" />
-    <state x="0" y="38" key="DiffContextDialog" timestamp="1578255808141">
+    <state x="290" y="75" width="1366" height="851" key="CommitChangelistDialog2/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1578258115314" />
+    <state x="0" y="38" width="1536" height="867" key="DiffContextDialog" timestamp="1578257961123">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="0" y="38" key="DiffContextDialog/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1578255808141" />
+    <state x="0" y="38" width="1536" height="867" key="DiffContextDialog/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1578257961123" />
     <state x="569" y="210" key="EditFileWatcherDialog" timestamp="1577663506398">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -190,26 +169,26 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="739" y="280" key="FileChooserDialogImpl/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1577663505295" />
-    <state width="1899" height="284" key="GridCell.Tab.0.bottom" timestamp="1577915907930">
+    <state width="1899" height="284" key="GridCell.Tab.0.bottom" timestamp="1578257933508">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1577915907930" />
-    <state width="1899" height="284" key="GridCell.Tab.0.center" timestamp="1577915907930">
+    <state width="1899" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1578257933508" />
+    <state width="1899" height="284" key="GridCell.Tab.0.center" timestamp="1578257933508">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="284" key="GridCell.Tab.0.center/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1577915907930" />
-    <state width="1899" height="284" key="GridCell.Tab.0.left" timestamp="1577915907930">
+    <state width="1899" height="284" key="GridCell.Tab.0.center/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1578257933508" />
+    <state width="1899" height="284" key="GridCell.Tab.0.left" timestamp="1578257933507">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="284" key="GridCell.Tab.0.left/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1577915907930" />
-    <state width="1899" height="284" key="GridCell.Tab.0.right" timestamp="1577915907930">
+    <state width="1899" height="284" key="GridCell.Tab.0.left/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1578257933507" />
+    <state width="1899" height="284" key="GridCell.Tab.0.right" timestamp="1578257933508">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1899" height="284" key="GridCell.Tab.0.right/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1577915907930" />
-    <state x="467" y="179" width="998" height="790" key="SettingsEditor" timestamp="1577663906250">
+    <state width="1899" height="284" key="GridCell.Tab.0.right/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1578257933508" />
+    <state x="467" y="179" width="998" height="790" key="SettingsEditor" timestamp="1578256766641">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="467" y="179" width="998" height="790" key="SettingsEditor/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1577663906250" />
+    <state x="467" y="179" width="998" height="790" key="SettingsEditor/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1578256766641" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1577819672723">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
