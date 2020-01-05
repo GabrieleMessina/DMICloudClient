@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efc30a69-5394-4eb3-a211-26dc535b08d5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/nav.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/materialUIStyleCustom.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/with-redux-store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/_document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/corsi.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/image/landing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux/actions/auth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux/reducers/authReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux/reducers/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redux/store/configureStore.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/landing.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/landing.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/landing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/main.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../landing.psd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../package-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="tsconfig.json" />
+        <option value="CSS File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1Vg8UpiBA4Ny8SfZqrPxjadxr44" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="ts.external.directory.path" value="D:\PortfolioSlow\dmi_cloud\DmiStorageClient\react\dmi_storage_client\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PortfolioSlow\dmi_cloud\DmiStorageClient\react\dmi_storage_client\pages" />
+      <recent name="D:\PortfolioSlow\dmi_cloud\DmiStorageClient\react\dmi_storage_client\public\image" />
+      <recent name="D:\PortfolioSlow\dmi_cloud\DmiStorageClient\react\dmi_storage_client\public" />
+      <recent name="D:\PortfolioSlow\dmi_cloud\DmiStorageClient\react\dmi_storage_client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PortfolioSlow\dmi_cloud\DmiStorageClient\react\dmi_storage_client\public\img" />
+      <recent name="D:\PortfolioSlow\dmi_cloud\DmiStorageClient\react\dmi_storage_client\static" />
+      <recent name="D:\PortfolioSlow\dmi_cloud\DmiStorageClient\react\dmi_storage_client" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efc30a69-5394-4eb3-a211-26dc535b08d5" name="Default Changelist" comment="" />
+      <created>1577211111507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577211111507</updated>
+      <workItem from="1577211113196" duration="141000" />
+      <workItem from="1577221665536" duration="8070000" />
+      <workItem from="1577555585326" duration="300000" />
+      <workItem from="1577555924491" duration="12309000" />
+      <workItem from="1577661142417" duration="1532000" />
+      <workItem from="1577662750451" duration="305000" />
+      <workItem from="1577663406194" duration="17667000" />
+      <workItem from="1578254783407" duration="1288000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="230" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1577663496906">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="230" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1577663496906" />
+    <state x="393" y="45" width="749" height="851" key="CommitChangelistDialog2" timestamp="1578255858717">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="393" y="45" width="749" height="851" key="CommitChangelistDialog2/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1578255858717" />
+    <state x="0" y="38" key="DiffContextDialog" timestamp="1578255808141">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="0" y="38" key="DiffContextDialog/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1578255808141" />
+    <state x="569" y="210" key="EditFileWatcherDialog" timestamp="1577663506398">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="569" y="210" key="EditFileWatcherDialog/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1577663506398" />
+    <state x="739" y="280" key="FileChooserDialogImpl" timestamp="1577663505295">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="739" y="280" key="FileChooserDialogImpl/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1577663505295" />
+    <state width="1899" height="284" key="GridCell.Tab.0.bottom" timestamp="1577915907930">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1577915907930" />
+    <state width="1899" height="284" key="GridCell.Tab.0.center" timestamp="1577915907930">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="284" key="GridCell.Tab.0.center/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1577915907930" />
+    <state width="1899" height="284" key="GridCell.Tab.0.left" timestamp="1577915907930">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="284" key="GridCell.Tab.0.left/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1577915907930" />
+    <state width="1899" height="284" key="GridCell.Tab.0.right" timestamp="1577915907930">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="284" key="GridCell.Tab.0.right/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1577915907930" />
+    <state x="467" y="179" width="998" height="790" key="SettingsEditor" timestamp="1577663906250">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="467" y="179" width="998" height="790" key="SettingsEditor/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1577663906250" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1577819672723">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1577819672723" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1578256092208">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/0.0.1920.1050/-1366.304.1366.738@0.0.1920.1050" timestamp="1578256092208" />
+  </component>
+</project>
